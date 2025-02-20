@@ -56,7 +56,6 @@ public static void main(String[] args) {
 		listAHead.addHead(2);
 		listAHead.addHead(3);
 		
-		System.out.println(" ");
 		System.out.print("Elemen A: ");
 		listAHead.displayElement();
 		
@@ -67,6 +66,7 @@ public static void main(String[] args) {
 		listBHead.addHead(4);
 		listBHead.addHead(1);
 		
+		System.out.println(" ");
 		System.out.print("Elemen B: ");
 		listBHead.displayElement();
 		
